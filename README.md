@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Lorena 👋
 
-- 🔭 Atualmente estou procurando um emprego 
+- 🔭 
 - 🌱 Estudando Analise e desenvolvimento de sistemas
 
 
