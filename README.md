@@ -1,64 +1,52 @@
-### Lorena Melo
+### Olá, eu sou a Lorena 👋
 
-Software Engineer | Automation • Systems Integration • Data Workflows  
+💻 Desenvolvedora que transforma processos manuais em sistemas automatizados, confiáveis e escaláveis.
 
-I build systems that eliminate manual work, improve reliability, and scale operations.
-
----
-
-### Experience & Impact
-
-- Designed and implemented automation pipelines in Python to replace manual operational processes  
-  → Reduced execution time and minimized human error in recurring tasks  
-
-- Built integrations between systems using REST APIs and structured data (JSON)  
-  → Improved data consistency and enabled reliable cross-system communication  
-
-- Developed data processing workflows for analysis and tracking  
-  → Increased visibility over operational metrics and decision-making  
-
-- Created internal tools and scripts to support infrastructure and monitoring  
-  → Faster diagnostics and improved response time  
+Gosto de resolver problemas reais — principalmente aqueles que fazem alguém perder horas em tarefas repetitivas.  
+Meu foco é simples: **automatizar, integrar e melhorar o que já existe.**
 
 ---
 
-### Selected Work
+### ⚡ Onde eu gero valor
 
-**Vulnerability Analysis Automation**  
-Python-based pipeline to process CSV datasets, classify vulnerabilities (new, mitigated, existing), and maintain historical tracking  
-→ Structured data flow and reduced manual analysis overhead  
-
-**Asset Data Processing (PATs)**  
-Automated Excel data normalization and duplicate detection  
-→ Improved data integrity and audit reliability  
-
-**Network Monitoring Scripts**  
-Lightweight tools for device availability checks (ping-based)  
-→ Quick operational insights with minimal overhead  
+- 🔄 Transformo processos operacionais em automações eficientes com Python  
+- 🔗 Conecto sistemas e dados (APIs, JSON, bancos) de forma consistente  
+- 📊 Estruturo e trato dados para gerar visibilidade e tomada de decisão  
+- ⚙️ Crio ferramentas internas que aumentam produtividade e reduzem esforço manual  
 
 ---
 
-### Skills
+### 🧩 Projetos que mostram isso na prática
 
-**Languages**  
-Python (primary), Java, C#, JavaScript  
+🟣 **Automação de análise de vulnerabilidades**  
+Pipeline em Python que processa dados, classifica vulnerabilidades e mantém histórico  
+→ Menos trabalho manual, mais controle e rastreabilidade  
 
-**Systems & Backend**  
-APIs, system integration, automation workflows  
+🟣 **Processamento inteligente de dados (PATs)**  
+Automação para leitura, padronização e identificação de duplicidades em Excel  
+→ Dados mais confiáveis e organizados para análise  
 
-**Data**  
-SQL Server, SQLite, data processing  
-
-**Tools**  
-Git, scripting, process automation  
+🟣 **Monitoramento de rede simplificado**  
+Scripts para verificação de disponibilidade de dispositivos  
+→ Diagnóstico rápido sem depender de ferramentas pesadas  
 
 ---
 
-### Currently Focused On
+### 🧠 Stack
 
-- Scalable backend systems  
-- Robotic Process Automation (RPA)  
-- Software architecture and design  
+Python • Java • C# • JavaScript  
+APIs REST • JSON • Integração de sistemas  
+SQL Server • SQLite  
+Git • Automação de processos  
+
+---
+
+### 🚀 Evoluindo constantemente
+
+Atualmente aprofundando em:
+- RPA (Robotic Process Automation)  
+- Backend e arquitetura de sistemas  
+- Construção de soluções mais escaláveis  
 
 ---
 
@@ -71,7 +59,13 @@ Git, scripting, process automation
 
 ---
 
-### Contact
+### 🔗 Vamos nos conectar
 
-- LinkedIn: https://www.linkedin.com/in/lorenanmelo  
-- Email: lohnmelo@gmail.com  
+<div>
+  <a href="https://www.linkedin.com/in/lorenanmelo" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:lohnmelo@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
