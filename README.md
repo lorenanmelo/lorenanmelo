@@ -1,54 +1,104 @@
-### Olá, eu sou a Lorena 👋
+<h1 align="center">Olá, eu sou a Lorena 👋</h1>
 
-💻 Desenvolvedora que transforma processos manuais em sistemas automatizados, confiáveis e escaláveis.
+<p align="center">
+  💻 Automação • Integração • Eficiência Operacional
+</p>
 
-Gosto de resolver problemas reais — principalmente aqueles que fazem alguém perder horas em tarefas repetitivas.  
-Meu foco é simples: **automatizar, integrar e melhorar o que já existe.**
-
----
-
-### ⚡ Onde eu gero valor
-
-- 🔄 Transformo processos operacionais em automações eficientes com Python  
-- 🔗 Conecto sistemas e dados (APIs, JSON, bancos) de forma consistente  
-- 📊 Estruturo e trato dados para gerar visibilidade e tomada de decisão  
-- ⚙️ Crio ferramentas internas que aumentam produtividade e reduzem esforço manual  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/APIs-Integration-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data-Processing-orange?style=for-the-badge">
+</p>
 
 ---
 
-### 🧩 Projetos que mostram isso na prática
+<p align="center">
+  <i>"Onde tem processo manual, tem oportunidade de automação."</i>
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+Sou desenvolvedora com foco em transformar tarefas repetitivas em soluções automatizadas e inteligentes.  
+Gosto de olhar para processos, encontrar gargalos e construir algo que realmente faça diferença no dia a dia.
+
+---
+
+<details>
+<summary><b>⚡ Impacto que eu gero</b></summary>
+
+<br>
+
+- 🔄 Automação de processos operacionais com Python  
+- 🔗 Integração entre sistemas (APIs, JSON, bancos de dados)  
+- 📊 Estruturação e tratamento de dados para tomada de decisão  
+- ⚙️ Desenvolvimento de ferramentas internas para ganho de produtividade  
+
+</details>
+
+---
+
+<details>
+<summary><b>🧩 Projetos em destaque</b></summary>
+
+<br>
 
 🟣 **Automação de análise de vulnerabilidades**  
-Pipeline em Python que processa dados, classifica vulnerabilidades e mantém histórico  
-→ Menos trabalho manual, mais controle e rastreabilidade  
+Pipeline em Python para classificação e rastreio de vulnerabilidades  
+→ Redução de esforço manual + mais controle dos dados  
 
-🟣 **Processamento inteligente de dados (PATs)**  
-Automação para leitura, padronização e identificação de duplicidades em Excel  
-→ Dados mais confiáveis e organizados para análise  
+<br>
+
+🟣 **Processamento de dados de ativos (PATs)**  
+Leitura, padronização e identificação de duplicidades em Excel  
+→ Dados mais confiáveis para análise  
+
+<br>
 
 🟣 **Monitoramento de rede simplificado**  
-Scripts para verificação de disponibilidade de dispositivos  
-→ Diagnóstico rápido sem depender de ferramentas pesadas  
+Scripts leves para verificação de disponibilidade (ping)  
+→ Diagnóstico rápido e automatizado  
+
+</details>
 
 ---
 
-### 🧠 Stack
+<details>
+<summary><b>🧠 Stack & Ferramentas</b></summary>
 
+<br>
+
+💻 **Linguagens**  
 Python • Java • C# • JavaScript  
-APIs REST • JSON • Integração de sistemas  
+
+🔗 **Integração & Backend**  
+APIs REST • JSON • Automação  
+
+📊 **Dados**  
 SQL Server • SQLite  
-Git • Automação de processos  
+
+🛠️ **Ferramentas**  
+Git • Scripts • Process Automation  
+
+</details>
 
 ---
 
-### 🚀 Evoluindo constantemente
+<details>
+<summary><b>📈 Em evolução</b></summary>
 
-Atualmente aprofundando em:
+<br>
+
 - RPA (Robotic Process Automation)  
-- Backend e arquitetura de sistemas  
-- Construção de soluções mais escaláveis  
+- Arquitetura de sistemas  
+- Backend escalável  
+
+</details>
 
 ---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/lorenanmelo">
@@ -59,13 +109,19 @@ Atualmente aprofundando em:
 
 ---
 
-### 🔗 Vamos nos conectar
+### 🔗 Conecte-se comigo
 
-<div>
-  <a href="https://www.linkedin.com/in/lorenanmelo" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/lorenanmelo">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:lohnmelo@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120px">
+</p>
