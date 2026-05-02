@@ -1,9 +1,64 @@
-### Olá! Eu sou a Lorena 👋
+### Lorena Melo
 
-💻 Desenvolvedora focada em automação, integração de sistemas e ganho de eficiência operacional  
-⚙️ Transformando processos manuais em soluções automatizadas e escaláveis  
-📊 Experiência com manipulação de dados, APIs e construção de fluxos inteligentes  
-🚀 Interesse em RPA, backend e soluções orientadas a resultado  
+Software Engineer | Automation • Systems Integration • Data Workflows  
+
+I build systems that eliminate manual work, improve reliability, and scale operations.
+
+---
+
+### Experience & Impact
+
+- Designed and implemented automation pipelines in Python to replace manual operational processes  
+  → Reduced execution time and minimized human error in recurring tasks  
+
+- Built integrations between systems using REST APIs and structured data (JSON)  
+  → Improved data consistency and enabled reliable cross-system communication  
+
+- Developed data processing workflows for analysis and tracking  
+  → Increased visibility over operational metrics and decision-making  
+
+- Created internal tools and scripts to support infrastructure and monitoring  
+  → Faster diagnostics and improved response time  
+
+---
+
+### Selected Work
+
+**Vulnerability Analysis Automation**  
+Python-based pipeline to process CSV datasets, classify vulnerabilities (new, mitigated, existing), and maintain historical tracking  
+→ Structured data flow and reduced manual analysis overhead  
+
+**Asset Data Processing (PATs)**  
+Automated Excel data normalization and duplicate detection  
+→ Improved data integrity and audit reliability  
+
+**Network Monitoring Scripts**  
+Lightweight tools for device availability checks (ping-based)  
+→ Quick operational insights with minimal overhead  
+
+---
+
+### Skills
+
+**Languages**  
+Python (primary), Java, C#, JavaScript  
+
+**Systems & Backend**  
+APIs, system integration, automation workflows  
+
+**Data**  
+SQL Server, SQLite, data processing  
+
+**Tools**  
+Git, scripting, process automation  
+
+---
+
+### Currently Focused On
+
+- Scalable backend systems  
+- Robotic Process Automation (RPA)  
+- Software architecture and design  
 
 ---
 
@@ -16,29 +71,7 @@
 
 ---
 
-### 🧠 Stack & Ferramentas
+### Contact
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Lo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Lo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Lo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
----
-
-### 🔗 Conecte-se comigo
-
-<div>
-  <a href="https://www.linkedin.com/in/lorenanmelo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:lohnmelo@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/lorenanmelo" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
+- LinkedIn: https://www.linkedin.com/in/lorenanmelo  
+- Email: lohnmelo@gmail.com  
