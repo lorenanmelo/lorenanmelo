@@ -121,6 +121,9 @@ Git • Scripts • Process Automation
 </p>
 
 ---
+<p align="center">
+  <i>"while (processo_manual) { automatizar(); }"</i>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120px">
