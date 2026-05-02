@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Lorena 👋</h1>
+<h1 align="center">Olá, eu sou a Lorena Melo👋</h1>
 
 <p align="center">
   💻 Automação • Integração • Eficiência Operacional
@@ -30,8 +30,8 @@ Gosto de olhar para processos, encontrar gargalos e construir algo que realmente
 
 <br>
 
-- 🔄 Automação de processos operacionais com Python  
-- 🔗 Integração entre sistemas (APIs, JSON, bancos de dados)  
+- 🔄 Automação de processos operacionais  
+- 🔗 Integração entre sistemas 
 - 📊 Estruturação e tratamento de dados para tomada de decisão  
 - ⚙️ Desenvolvimento de ferramentas internas para ganho de produtividade  
 
